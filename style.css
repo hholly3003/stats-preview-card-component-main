@@ -46,12 +46,10 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    padding-left: 50px;
-    padding-right: 60px;
 }
 
 .top{
-    padding: 50px;
+    padding: 50px 60px 0 60px;
     height: 180px;
     display: flex;
     flex-direction: column;
@@ -72,7 +70,7 @@ h1{
 
 .footer{
     display: flex;
-    padding: 0 60px 30px 50px;
+    padding: 0 60px 30px 60px;
 }
 
 .nums{
